@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\MSSAForum\MSSAForumClassLibrary\bin\Debug\netcoreapp2.1\MSSAForum.Data.deps.json
+C:\Users\Alex\Desktop\MSSAForum\MSSAForumClassLibrary\bin\Debug\netcoreapp2.1\MSSAForum.Data.dll
+C:\Users\Alex\Desktop\MSSAForum\MSSAForumClassLibrary\obj\Debug\netcoreapp2.1\MSSAForum.Data.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\MSSAForum\MSSAForumClassLibrary\obj\Debug\netcoreapp2.1\MSSAForum.Data.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\MSSAForum\MSSAForumClassLibrary\obj\Debug\netcoreapp2.1\MSSAForum.Data.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\MSSAForum\MSSAForumClassLibrary\obj\Debug\netcoreapp2.1\MSSAForum.Data.AssemblyInfo.cs
+C:\Users\Alex\Documents\GitHub\MSSA_Forums\MSSAForum\MSSAForumClassLibrary\bin\Debug\netcoreapp2.1\MSSAForum.Data.deps.json
+C:\Users\Alex\Documents\GitHub\MSSA_Forums\MSSAForum\MSSAForumClassLibrary\bin\Debug\netcoreapp2.1\MSSAForum.Data.dll
+C:\Users\Alex\Documents\GitHub\MSSA_Forums\MSSAForum\MSSAForumClassLibrary\bin\Debug\netcoreapp2.1\MSSAForum.Data.pdb
+C:\Users\Alex\Documents\GitHub\MSSA_Forums\MSSAForum\MSSAForumClassLibrary\obj\Debug\netcoreapp2.1\MSSAForum.Data.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\MSSA_Forums\MSSAForum\MSSAForumClassLibrary\obj\Debug\netcoreapp2.1\MSSAForum.Data.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\MSSA_Forums\MSSAForum\MSSAForumClassLibrary\obj\Debug\netcoreapp2.1\MSSAForum.Data.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\GitHub\MSSA_Forums\MSSAForum\MSSAForumClassLibrary\obj\Debug\netcoreapp2.1\MSSAForum.Data.AssemblyInfo.cs
+C:\Users\Alex\Documents\GitHub\MSSA_Forums\MSSAForum\MSSAForumClassLibrary\obj\Debug\netcoreapp2.1\MSSAForum.Data.dll
+C:\Users\Alex\Documents\GitHub\MSSA_Forums\MSSAForum\MSSAForumClassLibrary\obj\Debug\netcoreapp2.1\MSSAForum.Data.pdb

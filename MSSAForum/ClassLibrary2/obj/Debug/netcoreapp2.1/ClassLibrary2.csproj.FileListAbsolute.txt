@@ -1,0 +1,9 @@
+C:\Users\Alex\Documents\GitHub\MSSA_Forums\MSSAForum\ClassLibrary2\bin\Debug\netcoreapp2.1\ClassLibrary2.deps.json
+C:\Users\Alex\Documents\GitHub\MSSA_Forums\MSSAForum\ClassLibrary2\bin\Debug\netcoreapp2.1\ClassLibrary2.dll
+C:\Users\Alex\Documents\GitHub\MSSA_Forums\MSSAForum\ClassLibrary2\bin\Debug\netcoreapp2.1\ClassLibrary2.pdb
+C:\Users\Alex\Documents\GitHub\MSSA_Forums\MSSAForum\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\MSSA_Forums\MSSAForum\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\MSSA_Forums\MSSAForum\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\GitHub\MSSA_Forums\MSSAForum\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.AssemblyInfo.cs
+C:\Users\Alex\Documents\GitHub\MSSA_Forums\MSSAForum\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.dll
+C:\Users\Alex\Documents\GitHub\MSSA_Forums\MSSAForum\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.pdb
