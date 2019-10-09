@@ -1,0 +1,9 @@
+C:\Users\Alex\source\repos\MSSAForum\MSSAForum.Data\bin\Debug\netcoreapp2.1\MSSAForum.Data.deps.json
+C:\Users\Alex\source\repos\MSSAForum\MSSAForum.Data\bin\Debug\netcoreapp2.1\MSSAForum.Data.dll
+C:\Users\Alex\source\repos\MSSAForum\MSSAForum.Data\obj\Debug\netcoreapp2.1\MSSAForum.Data.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MSSAForum\MSSAForum.Data\obj\Debug\netcoreapp2.1\MSSAForum.Data.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\MSSAForum\MSSAForum.Data\obj\Debug\netcoreapp2.1\MSSAForum.Data.AssemblyInfo.cs
+C:\Users\Alex\source\repos\MSSAForum\MSSAForum.Data\obj\Debug\netcoreapp2.1\MSSAForum.Data.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\MSSAForum\MSSAForum.Data\bin\Debug\netcoreapp2.1\MSSAForum.Data.pdb
+C:\Users\Alex\source\repos\MSSAForum\MSSAForum.Data\obj\Debug\netcoreapp2.1\MSSAForum.Data.dll
+C:\Users\Alex\source\repos\MSSAForum\MSSAForum.Data\obj\Debug\netcoreapp2.1\MSSAForum.Data.pdb

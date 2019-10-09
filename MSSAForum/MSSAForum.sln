@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSSAForum", "MSSAForum\MSSAForum.csproj", "{299A919B-C79F-4885-BD1A-BC131960E6C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSSAForum", "MSSAForum\MSSAForum.csproj", "{0B587B84-A31B-484B-8C74-ADCACDF54043}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSSAForum.Data", "MSSAForumClassLibrary\MSSAForum.Data.csproj", "{8115500B-BF53-4477-9C66-A37669400BD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSSAForum.Data", "MSSAForum.Data\MSSAForum.Data.csproj", "{A9AF93F6-C5F7-4797-ADAE-26CBFBDDD46E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{DAF27FEB-2C2E-470C-A0BB-FFCBEE9F3A42}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSSAForum.Service", "MSSAForum.Service\MSSAForum.Service.csproj", "{2B57D31F-B1AD-4F03-8B73-081E0570AD88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,23 +15,23 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{299A919B-C79F-4885-BD1A-BC131960E6C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{299A919B-C79F-4885-BD1A-BC131960E6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{299A919B-C79F-4885-BD1A-BC131960E6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{299A919B-C79F-4885-BD1A-BC131960E6C2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8115500B-BF53-4477-9C66-A37669400BD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8115500B-BF53-4477-9C66-A37669400BD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8115500B-BF53-4477-9C66-A37669400BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8115500B-BF53-4477-9C66-A37669400BD9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DAF27FEB-2C2E-470C-A0BB-FFCBEE9F3A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DAF27FEB-2C2E-470C-A0BB-FFCBEE9F3A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DAF27FEB-2C2E-470C-A0BB-FFCBEE9F3A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DAF27FEB-2C2E-470C-A0BB-FFCBEE9F3A42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B587B84-A31B-484B-8C74-ADCACDF54043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B587B84-A31B-484B-8C74-ADCACDF54043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B587B84-A31B-484B-8C74-ADCACDF54043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B587B84-A31B-484B-8C74-ADCACDF54043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9AF93F6-C5F7-4797-ADAE-26CBFBDDD46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AF93F6-C5F7-4797-ADAE-26CBFBDDD46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AF93F6-C5F7-4797-ADAE-26CBFBDDD46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AF93F6-C5F7-4797-ADAE-26CBFBDDD46E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B57D31F-B1AD-4F03-8B73-081E0570AD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B57D31F-B1AD-4F03-8B73-081E0570AD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B57D31F-B1AD-4F03-8B73-081E0570AD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B57D31F-B1AD-4F03-8B73-081E0570AD88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {95213F7C-334E-4E83-95A5-1115147A2759}
+		SolutionGuid = {D9E66542-8329-41B1-A60F-2A3756F0AD34}
 	EndGlobalSection
 EndGlobal

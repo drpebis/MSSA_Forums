@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <UserSecretsId>aspnet-MSSAForum-C9D80924-F725-4950-9FA7-8BC77BDC1C6B</UserSecretsId>
+    <UserSecretsId>aspnet-MSSAForum-36FB4A09-C5C2-4A2B-982A-38299F7F1C40</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -12,11 +12,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Identity\Services\" />
+    <ProjectReference Include="..\MSSAForum.Data\MSSAForum.Data.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MSSAForumClassLibrary\MSSAForum.Data.csproj" />
+    <Folder Include="Services\" />
   </ItemGroup>
 
 </Project>
