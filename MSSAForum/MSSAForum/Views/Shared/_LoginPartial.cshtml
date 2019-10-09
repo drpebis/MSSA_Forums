@@ -1,8 +1,11 @@
 @using Microsoft.AspNetCore.Identity
-@inject Microsoft.AspNetCore.Identity.UserManager<Microsoft.AspNetCore.Identity.IdentityUser> userManager
+@*@inject Microsoft.AspNetCore.Identity.UserManager<Microsoft.AspNetCore.Identity.IdentityUser> userManager*@
+@using MSSAForum.Data.Models
 
 @inject SignInManager<IdentityUser> SignInManager
 @inject UserManager<IdentityUser> UserManager
+@*@inject SignInManager<ApplicationUser> SignInManager 
+@inject UserManager<ApplicationUser> UserManager*@
 
 @if (SignInManager.IsSignedIn(User))
 {

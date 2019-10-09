@@ -13022,11 +13022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\MSSAForum\\MSSAForum.Data\\MSSAForum.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Documents\\GitHub\\MSSA_Forums\\MSSAForum\\MSSAForum.Data\\MSSAForum.Data.csproj",
       "projectName": "MSSAForum.Data",
-      "projectPath": "C:\\Users\\Alex\\source\\repos\\MSSAForum\\MSSAForum.Data\\MSSAForum.Data.csproj",
+      "projectPath": "C:\\Users\\Alex\\Documents\\GitHub\\MSSA_Forums\\MSSAForum\\MSSAForum.Data\\MSSAForum.Data.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\source\\repos\\MSSAForum\\MSSAForum.Data\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\Documents\\GitHub\\MSSA_Forums\\MSSAForum\\MSSAForum.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

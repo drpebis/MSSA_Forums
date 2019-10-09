@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MSSAForum.Data\MSSAForum.Data.csproj" />
+    <ProjectReference Include="..\MSSAForum.Service\MSSAForum.Service.csproj" />
   </ItemGroup>
 
   <ItemGroup>

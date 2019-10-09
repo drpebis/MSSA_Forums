@@ -25,6 +25,7 @@
       "MSSAForum/1.0.0": {
         "dependencies": {
           "MSSAForum.Data": "1.0.0",
+          "MSSAForum.Service": "1.0.0",
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0",
@@ -1448,6 +1449,17 @@
         },
         "compile": {
           "MSSAForum.Data.dll": {}
+        }
+      },
+      "MSSAForum.Service/1.0.0": {
+        "dependencies": {
+          "MSSAForum.Data": "1.0.0"
+        },
+        "runtime": {
+          "MSSAForum.Service.dll": {}
+        },
+        "compile": {
+          "MSSAForum.Service.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -4881,6 +4893,11 @@
       "hashPath": "windowsazure.storage.8.1.4.nupkg.sha512"
     },
     "MSSAForum.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MSSAForum.Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

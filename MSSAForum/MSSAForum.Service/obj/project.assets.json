@@ -13001,11 +13001,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\MSSAForum\\MSSAForum.Service\\MSSAForum.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Documents\\GitHub\\MSSA_Forums\\MSSAForum\\MSSAForum.Service\\MSSAForum.Service.csproj",
       "projectName": "MSSAForum.Service",
-      "projectPath": "C:\\Users\\Alex\\source\\repos\\MSSAForum\\MSSAForum.Service\\MSSAForum.Service.csproj",
+      "projectPath": "C:\\Users\\Alex\\Documents\\GitHub\\MSSA_Forums\\MSSAForum\\MSSAForum.Service\\MSSAForum.Service.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\source\\repos\\MSSAForum\\MSSAForum.Service\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\Documents\\GitHub\\MSSA_Forums\\MSSAForum\\MSSAForum.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13024,8 +13024,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Alex\\source\\repos\\MSSAForum\\MSSAForum.Data\\MSSAForum.Data.csproj": {
-              "projectPath": "C:\\Users\\Alex\\source\\repos\\MSSAForum\\MSSAForum.Data\\MSSAForum.Data.csproj"
+            "C:\\Users\\Alex\\Documents\\GitHub\\MSSA_Forums\\MSSAForum\\MSSAForum.Data\\MSSAForum.Data.csproj": {
+              "projectPath": "C:\\Users\\Alex\\Documents\\GitHub\\MSSA_Forums\\MSSAForum\\MSSAForum.Data\\MSSAForum.Data.csproj"
             }
           }
         }
